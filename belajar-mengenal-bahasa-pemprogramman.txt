@@ -1,6 +1,7 @@
 Contoh Bahasa Pemprogramman
 
 C++
+-Belajar Di semester 1
 JavaScript
 C#
 PHP
