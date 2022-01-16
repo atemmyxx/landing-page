@@ -3,7 +3,8 @@ Contoh Bahasa Pemprogramman
 C++
 -Belajar Di semester 1
 JavaScript
-C#
+-belajar di bulan agustus
+-belajar di bulan september
 PHP
 Python
 Java
