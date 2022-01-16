@@ -2,4 +2,6 @@ menyelesaikan bab html dasar
 menyelesaikan bab css dasar
 menyelesaikan bab javascript dasar
 menyelesaikan bab PHP dasar
-menyelesaikan framwork tailwind
+menyelesaikan framework tailwind
+menyelesaikan framework back-end
+membuat project sederhana
