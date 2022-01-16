@@ -5,6 +5,7 @@ C++
 JavaScript
 -belajar bulan februari
 -belajar bulan maret
+Rubby
 C#
 PHP
 Python
