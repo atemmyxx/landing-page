@@ -1,0 +1,5 @@
+menyelesaikan bab html dasar
+menyelesaikan bab css dasar
+menyelesaikan bab javascript dasar
+menyelesaikan bab PHP dasar
+membuat project sederhana
